@@ -1,0 +1,72 @@
+.survey-form-container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.survey-form-container h1 {
+    text-align: center;
+    margin-bottom: 20px;
+    color: #333;
+}
+
+.survey-form-container label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+    color: #555;
+}
+
+.survey-form-container input[type="text"],
+.survey-form-container input[type="email"],
+.survey-form-container input[type="number"],
+.survey-form-container select,
+.survey-form-container textarea {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 14px;
+    box-sizing: border-box;
+}
+
+.survey-form-container button {
+    width: 100%;
+    padding: 10px;
+    background-color: #007bff;
+    border: none;
+    border-radius: 4px;
+    color: #fff;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.survey-form-container button:hover {
+    background-color: #0056b3;
+}
+
+.survey-form-container .error {
+    color: red;
+    font-size: 12px;
+}
+
+.survey-summary {
+    margin-top: 20px;
+    padding: 20px;
+    background-color: #f1f1f1;
+    border-radius: 8px;
+}
+
+.survey-summary h2 {
+    margin-bottom: 15px;
+    color: #333;
+}
+
+.survey-summary p {
+    margin: 5px 0;
+    color: #555;
+}
