@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/internshalaProject-2/static/css/main.a0868687.css",
+    "main.js": "/internshalaProject-2/static/js/main.674113f3.js",
+    "index.html": "/internshalaProject-2/index.html",
+    "main.a0868687.css.map": "/internshalaProject-2/static/css/main.a0868687.css.map",
+    "main.674113f3.js.map": "/internshalaProject-2/static/js/main.674113f3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a0868687.css",
+    "static/js/main.674113f3.js"
+  ]
+}
